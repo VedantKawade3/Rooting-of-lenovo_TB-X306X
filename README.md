@@ -111,6 +111,6 @@ In place of "magisk_patched-27000_rCLm6.img" name your patched file .
 
 **Vedant Kawade** 
 <br><br>
-<p><b></b>Follow me on <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip" target="_blank"> <i>Linkden</i> </a></b></p>
+<p><b></b>Follow me on <a href="https://www.linkedin.com/in/vedant-kawade-09501b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <i>Linkden</i> </a></b></p>
 <br>
 **For contacting me** - Email :- vedantkawade.official@gmail.com
