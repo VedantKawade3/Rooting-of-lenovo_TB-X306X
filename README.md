@@ -69,12 +69,12 @@ II) Connect your lenovo tab & open downloaded software fix app and in rescue opt
 ![image11](https://github.com/user-attachments/assets/127d5897-4dcc-464d-a997-ce0c1c199646)
 
 <br><br>
-III) After download, it will show where your update is downloaded go there and find boot.img image and copy it and paste in tablet`s storage at known path (Any path you remember)
+III) After download, it will show where your update is downloaded go there and find boot.img image and copy it and paste in tablet`s storage at known path (Any path you remember)<br><br>
 IV) Download magisk app in tablet from <a href="https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk" target="_blank">here</a> or from <a href="https://magisk.me/apk/" target="_blank"> official website</a> . After that, open magisk app and click on install as shown<br><br>
 ![image6](https://github.com/user-attachments/assets/4f225af3-33dc-4b6c-be17-60ee0777bf6f)
 <br><br>
                     
-V) click on ```select and patch a file``` option, and then click on ```LET`S GO``` option. After that, at the end. It will show directory where patched image is stored.<br><br>
+V) click on ```select and patch a file``` option,and then select ```boot.img``` file from device storage and then click on ```LET`S GO``` option. After that, at the end. It will show directory where patched image is stored.<br><br>
 ![image7](https://github.com/user-attachments/assets/acfab727-1f26-4315-81ba-26713bc729c9)
 <br><br>
 VI) Go there and copy paste in your pc where adb drivers are installed .<br><br>
@@ -97,10 +97,12 @@ ii) command 2 :
 ```
 fastboot flash boot magisk_patched-27000_rCLm6.img
 ```
-<b>
+<br>
         
 ![image8](https://github.com/user-attachments/assets/fc5be25a-8a3f-4360-a1be-1d1170a5d895)
 
+<br>
+In place of ```magisk_patched-27000_rCLm6.img``` name your patched file .
 <br><br>
 <h3>Now you successfully rooted your tablet , To check download root checker app from play store and check .</h3>
 
