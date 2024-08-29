@@ -102,7 +102,7 @@ fastboot flash boot magisk_patched-27000_rCLm6.img
 ![image8](https://github.com/user-attachments/assets/fc5be25a-8a3f-4360-a1be-1d1170a5d895)
 
 <br>
-In place of ```magisk_patched-27000_rCLm6.img``` name your patched file .
+In place of "magisk_patched-27000_rCLm6.img" name your patched file .
 <br><br>
 <h3>Now you successfully rooted your tablet , To check download root checker app from play store and check .</h3>
 
