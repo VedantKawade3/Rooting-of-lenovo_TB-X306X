@@ -106,3 +106,11 @@ In place of "magisk_patched-27000_rCLm6.img" name your patched file .
 <br><br>
 <h3>Now you successfully rooted your tablet , To check download root checker app from play store and check .</h3>
 
+
+## Author
+
+**Vedant Kawade** 
+<br><br>
+<p><b></b>Follow me on <a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip" target="_blank"> <i>Linkden</i> </a></b></p>
+<br>
+**For contacting me** - Email :- vedantkawade.official@gmail.com
