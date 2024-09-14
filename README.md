@@ -4,7 +4,7 @@
 
 <h4 style="color: red;">⚠️DISCLAIMER :- Do it at your own risk , I won't be responsible if anything goes wrong, you might risk to brick your tablet </h4> <br><br>
 
-<p>•Step by step rooting process of lenovo TB-X306X :- <br> there are three steps to route Lenovo TB-X306X .</p>
+<p>•Step by step rooting process of lenovo TB-X306X :- <br> there are three steps to root Lenovo TB-X306X .</p>
 
 1] Unlocking bootloader<br>
 2] Patching recovery image using magisk app<br>
