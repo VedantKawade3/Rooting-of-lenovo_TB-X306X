@@ -57,7 +57,7 @@ or
 ```
 fastboot oem unlock-go
 ```
-And hit enter Then on tablet screen, you will see it is asking you to press volume up to unlock or volume down to not unlock then press volume up to unlock bootloader .
+And hit enter Then on tablet screen, you will see it is asking you to press ```volume up``` to ```unlock``` or ```volume down``` to ```not unlock``` then press ```volume up``` to ```unlock bootloader``` .
 <br><br><br>
 <h4>2] Patching recovery image using magisk app :-</h4><br><br>
 
