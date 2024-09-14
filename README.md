@@ -69,7 +69,7 @@ II) Connect your lenovo tab & open downloaded software fix app and in rescue opt
 ![image11](https://github.com/user-attachments/assets/127d5897-4dcc-464d-a997-ce0c1c199646)
 
 <br><br>
-III) After download, it will show where your update is downloaded go there and find boot.img image and copy it and paste in tablet`s storage at known path (Any path you remember)<br><br>
+III) After download, it will show where your update is downloaded go there and find ```boot.img``` image and copy it and paste in tablet`s storage at known path (Any path you remember)<br><br>
 IV) Download magisk app in tablet from <a href="https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk" target="_blank">here</a> or from <a href="https://magisk.me/apk/" target="_blank"> official website</a> . After that, open magisk app and click on install as shown<br><br>
 ![image6](https://github.com/user-attachments/assets/4f225af3-33dc-4b6c-be17-60ee0777bf6f)
 <br><br>
