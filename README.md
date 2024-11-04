@@ -113,4 +113,7 @@ In place of "magisk_patched-27000_rCLm6.img" name your patched file .
 <br><br>
 <p><b></b>Follow me on <a href="https://www.linkedin.com/in/vedant-kawade-09501b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <i>Linkden</i> </a></b></p>
 <br>
-**For contacting me** - Email :- vedantkawade.official@gmail.com
+**For contacting me** :-
+[<img align="left" alt="Vedant Kawade" width="30px" src="/images/git.png" />](https://vedantkawade3.github.io/Git-practice-in-live-environment/) [<img align="left" alt="Twitter - Vedant Kawade" width="30px" src="/images/twitter.png" />](https://x.com/Vedant_Kawade07) [<img align="left" alt="Instagram - Vedant Kawade" width="30px" src="/images/instagram.png" />](https://www.instagram.com/vedant) [<img align="left" alt="LinkedIn - Vedant Kawade" width="30px" src="/images/linkedin.png" />](https://www.linkedin.com/in/vedant-kawade-09501b278/) [<img align="left" alt="YouTube -Vedant Kawade" width="30px" src="/images/youtube.png" />](https://www.youtube.com/c/vedant) [<img align="left" alt="Email -Vedant Kawade" width="30px" src="/images/gmail.png" />](mailto:vedantkawade.official@gmail.com)
+
+
