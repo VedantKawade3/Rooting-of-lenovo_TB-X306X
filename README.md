@@ -15,22 +15,31 @@
 
 I) To unlock bootloader open settings .<br><br>
 II) Now click on system .<br><br>
-![image1](https://github.com/user-attachments/assets/5106843f-349a-4e71-9ff6-bdd72220c78b)
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/5106843f-349a-4e71-9ff6-bdd72220c78b" alt="Image1" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br> <br>
 III) Click on about tablet .<br><br>
-![image2](https://github.com/user-attachments/assets/6ec6b422-7808-4ca1-8104-9a7fd49275e0)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/6ec6b422-7808-4ca1-8104-9a7fd49275e0" alt="Image2" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
 IV) Click 7 to 8 times on build number<br><br>
 V) Now you are in developer mode and go back and open developer options. <br><br>
-![image3](https://github.com/user-attachments/assets/bd81a6be-d8cc-43ca-8e85-b164ae9f9e28)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/bd81a6be-d8cc-43ca-8e85-b164ae9f9e28" alt="Image3" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
+<div>
 VI) enable ```USB debugging``` and ```OEM unlocking``` & close settings.<br><br>
-![image4](https://github.com/user-attachments/assets/84f010ff-d11d-4caa-8a34-ecd59a555781)
+</div>
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/84f010ff-d11d-4caa-8a34-ecd59a555781" alt="Image4" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
-![image5](https://github.com/user-attachments/assets/0c606167-8a0e-4a12-9e23-8ee34b803fab)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/0c606167-8a0e-4a12-9e23-8ee34b803fab" alt="Image5" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
 VII) Power off device and put it in ```fastboot mode``` by pressing ```power button``` + ```volume down button``` Simultaneously .<br><br>
 VIII) Now download ```adb drivers``` in your pc and create platform-tools folder in C-drive and extract downloaded ADB drivers` zip (Platform-tools-latest-Windows.zip) file.
@@ -63,22 +72,30 @@ And hit enter Then on tablet screen, you will see it is asking you to press ```v
 
 I) Install Lenovo software fix app in PC from  <a href="https://download.lenovo.com/consumer/mobiles/software_fix_v7.0.3.17_setup.exe" target="_blank">here</a> or you can download from <a href="https://pcsupport.lenovo.com/in/en/products/tablets/lenovo/lenovo-tablet-10/downloads/ds101291"> official website</a> .<br><br>
 II) Connect your lenovo tab & open downloaded software fix app and in rescue option select your device type. After that, use usb connection section in it and download latest update for your device.<br><br>
-![image10](https://github.com/user-attachments/assets/5eae43ee-1373-4427-9f4a-3d2b433a959a)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/5eae43ee-1373-4427-9f4a-3d2b433a959a" alt="Image10" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
-![image11](https://github.com/user-attachments/assets/127d5897-4dcc-464d-a997-ce0c1c199646)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/127d5897-4dcc-464d-a997-ce0c1c199646" alt="Image11" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
 III) After download, it will show where your update is downloaded go there and find ```boot.img``` image and copy it and paste in tablet`s storage at known path (Any path you remember)<br><br>
 IV) Download magisk app in tablet from <a href="https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk" target="_blank">here</a> or from <a href="https://magisk.me/apk/" target="_blank"> official website</a> . After that, open magisk app and click on install as shown<br><br>
-![image6](https://github.com/user-attachments/assets/4f225af3-33dc-4b6c-be17-60ee0777bf6f)
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/4f225af3-33dc-4b6c-be17-60ee0777bf6f" alt="Image6" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
                     
 V) click on ```select and patch a file``` option,and then select ```boot.img``` file from device storage and then click on ```LET`S GO``` option. After that, at the end. It will show directory where patched image is stored.<br><br>
-![image7](https://github.com/user-attachments/assets/acfab727-1f26-4315-81ba-26713bc729c9)
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/acfab727-1f26-4315-81ba-26713bc729c9" alt="Image7" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br>
 VI) Go there and copy paste in your pc where adb drivers are installed .<br><br>
-![image9](https://github.com/user-attachments/assets/18daae16-025a-4442-b82e-1f8a22446f8d)
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/18daae16-025a-4442-b82e-1f8a22446f8d" alt="Image9" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br><br><br>
 
 <h4>3] Flashing patched image in Lenovo TB-X306X using PC :-</h4> 
@@ -99,8 +116,9 @@ fastboot flash boot magisk_patched-27000_rCLm6.img
 ```
 <br>
         
-![image8](https://github.com/user-attachments/assets/fc5be25a-8a3f-4360-a1be-1d1170a5d895)
-
+<div style="width: 100%; max-width: 600px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; margin: auto;">
+    <img src="https://github.com/user-attachments/assets/fc5be25a-8a3f-4360-a1be-1d1170a5d895" alt="Responsive Image" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 <br>
 In place of "magisk_patched-27000_rCLm6.img" name your patched file .
 <br><br>
