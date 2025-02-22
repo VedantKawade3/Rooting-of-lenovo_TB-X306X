@@ -120,10 +120,11 @@ fastboot flash boot magisk_patched-27000_rCLm6.img
     <img src="https://github.com/user-attachments/assets/fc5be25a-8a3f-4360-a1be-1d1170a5d895" alt="Responsive Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 <br>
-In place of "magisk_patched-27000_rCLm6.img" name your patched file .
+In place of "magisk_patched-27000_rCLm6.img" name your patched file.
 <br><br>
 <h3>Now you successfully rooted your tablet , To check download root checker app from play store and check .</h3>
 
+If you want to ```increase the performance``` and ```reduce lag``` of this rooted 2GB Ram tablet then see [```This Process```](https://github.com/VedantKawade3/Creating-Virtual-RAM-Using-Termux)!
 
 ## Author
 
